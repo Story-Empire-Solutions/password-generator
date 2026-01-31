@@ -28,3 +28,8 @@ for character in range(number_characters):
 
 for character in range(symbol_characters):
     password = password + random.choice(symbols)
+
+#Convert the string to list and then shuffle the characters to generate a strong password.
+
+password_to_list = list(password)
+random.shuffle(password_to_list)
