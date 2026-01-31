@@ -15,16 +15,3 @@ symbol_characters = int(input("Enter the number of symbols you want in your pass
 
 characters_total = letter_characters + number_characters + symbol_characters
 print(f"\nThe total number of characters you want is: '{characters_total}'  characters.")
-
-#Create an empty string variable that will hold the characters
-password = ""
-
-#Set up the for loop that will generate the password.
-for character in range(letter_characters):
-    password = password + random.choice(letters)
-
-for character in range(number_characters):
-    password = password + random.choice(numbers)
-
-for character in range(symbol_characters):
-    password = password + random.choice(symbols)
