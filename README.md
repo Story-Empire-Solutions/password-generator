@@ -1,11 +1,14 @@
-## <div style="text-align: center;"><strong>STORY EMPIRE SOLUTIONS</strong></div>
+<h2 style="text-align: center;">
+  <a href="https://www.storyempiresolutions.com" target="_blank" rel="noopener noreferrer" style="font-weight: bold; color: #020988;">STORY EMPIRE SOLUTIONS</a>
+</h2>
 
 <br>
 <br>
 
-<p style="text-align: center;">
+<div style="text-align: center;">
   <img src="https://www.storyempiresolutions.com/wp-content/uploads/2024/12/story-empire-horizontal-logo-2.svg" alt="STORY EMPIRE SOLUTIONS" width="400">
-</p>
+</div>
+
 
 
 # Password Generator
