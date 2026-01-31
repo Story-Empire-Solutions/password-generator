@@ -33,3 +33,8 @@ for character in range(symbol_characters):
 
 password_to_list = list(password)
 random.shuffle(password_to_list)
+
+#Convert the list back into a string.
+separator = ""
+your_password = separator.join(password_to_list)
+print(f'\nCongratulations! Your "{characters_total}-character" password is right below:\n\n{your_password}')
