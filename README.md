@@ -1,9 +1,9 @@
-## <div align="center"><strong>STORY EMPIRE SOLUTIONS</strong></div>
+## <div style="text-align: center;"><strong>STORY EMPIRE SOLUTIONS</strong></div>
 
 <br>
 <br>
 
-<p align="center">
+<p style="text-align: center;">
   <img src="https://www.storyempiresolutions.com/wp-content/uploads/2024/12/story-empire-horizontal-logo-2.svg" alt="STORY EMPIRE SOLUTIONS" width="400">
 </p>
 
