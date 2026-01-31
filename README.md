@@ -1,9 +1,8 @@
-<div align="center">
-  <a href="https://www.storyempiresolutions.com">
-    <h2><strong>STORY EMPIRE SOLUTIONS</strong></h2>
+<h2 align="center">
+  <a href="https://www.storyempiresolutions.com" target="_blank" rel="noopener noreferrer">
+    <strong><font color="#020988">STORY EMPIRE SOLUTIONS</font></strong>
   </a>
-</div>
-
+</h2>
 
 <br>
 <br>
